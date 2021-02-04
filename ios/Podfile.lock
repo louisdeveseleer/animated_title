@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - keyboard_visibility (0.5.0):
+    - Flutter
+    - Reachability
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - keyboard_visibility (from `.symlinks/plugins/keyboard_visibility/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Reachability
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  keyboard_visibility:
+    :path: ".symlinks/plugins/keyboard_visibility/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  integration_test: 5ed24a436eb7ec17b6a13046e9bf7ca4a404e59e
+  keyboard_visibility: 96a24de806fe6823c3ad956c01ba2ec6d056616f
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
